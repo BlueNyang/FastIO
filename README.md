@@ -1,6 +1,24 @@
 # FastIO
 ## Fast I/O for Cpp
 
+## 0. Use Example
+
+**Using**:
+```c++
+class FastIO { ... };
+
+int main(void) {
+    FastIO fio;
+    string s;
+    fio >> s  << s;
+}
+```
+**Result**:
+```bash
+test # input
+test # output
+```
+
 ## 1. libraries
 
 ```c++
